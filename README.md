@@ -1,6 +1,6 @@
 # Notes
  
-This is a notes app (duh). Add your notes and then make this visible by pressing "My Notes" button.
+This is a notes app (duh). Add your notes and then make them visible by pressing "My Notes" button.
 
 ## Screenshots
 
